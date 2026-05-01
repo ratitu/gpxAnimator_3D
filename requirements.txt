@@ -1,0 +1,11 @@
+streamlit
+gpxpy
+staticmap
+moviepy
+Pillow
+numpy
+imageio-ffmpeg
+pydeck
+matplotlib
+scipy
+requests
